@@ -1,20 +1,17 @@
-# Some header 1
+# @przemyslawkowalczyk/randomid-generator
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean bibendum urna id ligula pharetra, vitae iaculis erat maximus.
+`This simple package helps you create string of random numbers and letters from given length.` 
 
-Praesent nec purus quis turpis facilisis iaculis vel sed dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+## HOW TO USE
 
-## Some header 2
+`const randomId = require('@przemyslawkowalczyk/randomid-generator');`
+`                                                                    `
+`console.log(randomId(10));`
 
-1. Morbi ex erat, iaculis eu felis quis, dapibus tempus enim.
-2. Ut convallis iaculis nisi, eget imperdiet urna luctus non.
-3. Ut ac viverra ex.
+## INSTALL
 
-### Some header 3
+`yarn add @przemyslawkowalczyk/randomid-generator`
 
-- Donec nec lobortis odio.
-- In nec ipsum quis nulla commodo facilisis.
+or
 
-#### Some header 4
-
-> Aliquam auctor nulla eu felis congue, sit amet pulvinar lacus venenatis. Etiam elementum, odio sit amet elementum pellentesque, ex turpis accumsan neque, at egestas nulla tellus vitae mauris.
+`npm i @przemyslawkowalczyk/randomid-generator`
