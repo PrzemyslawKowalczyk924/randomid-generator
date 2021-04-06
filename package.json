@@ -1,0 +1,8 @@
+{
+  "name": "@przemyslawkowalczyk/randomid-generator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Przemyslaw Kowalczyk ©",
+  "contributors": ["Kodilla"]
+}
